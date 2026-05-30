@@ -7,7 +7,7 @@
 |Backend|ASP.NET Web API (C#)|
 |ORM|Entity Framework Core |
 |Database|SQLite(dev)|
-|Frontend|React+Vite|
+|Frontend|React+Vite and TailWindcss|
 |Auth|ASP.NET|
 |API Docs|Swagger (Swashbuckle)|
 |Conteinerization|Docker+DockerCompose|
