@@ -4,12 +4,12 @@
 
 |Layer|Technology|
 | :--- | ---: | 
-|Backend|ASP.NET Core 8 Web API (C#)|
-|ORM|Entity Framework Core 8|
+|Backend|ASP.NET Web API (C#)|
+|ORM|Entity Framework Core |
 |Database|SQLite(dev)|
 |Frontend|React+Vite|
-|Auth|ASP.NET Identity+JWT|
-|API Docs|Awagger/Scalar|
+|Auth|ASP.NET|
+|API Docs|Swagger (Swashbuckle)|
 |Conteinerization|Docker+DockerCompose|
 
 ## what I used:
