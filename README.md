@@ -12,4 +12,19 @@
 |API Docs|Awagger/Scalar|
 |Conteinerization|Docker+DockerCompose|
 
+## Prerequisites:
+```
+# .NET 8 SDK 
+https://dotnet.microsoft.com/download/dotnet/8.0
+
+# Node.JS (for react frontend)
+https://nodejs.org 
+
+# Verify
+dotnet --version
+react --version
+```
+
+
+```
 
