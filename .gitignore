@@ -1,0 +1,13 @@
+# .NET
+bin/
+obj/
+*.db
+*.pdb
+
+# Frontend
+node_modules/
+dist/
+
+# Environment
+.env
+.env.local
