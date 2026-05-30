@@ -12,9 +12,9 @@
 |API Docs|Awagger/Scalar|
 |Conteinerization|Docker+DockerCompose|
 
-## Prerequisites:
+## what I used:
 ```
-# .NET 8 SDK 
+# .NET version 10.0.300 | download at: 
 https://dotnet.microsoft.com/download/dotnet/8.0
 
 # Node.JS (for react frontend)
@@ -24,7 +24,5 @@ https://nodejs.org
 dotnet --version
 react --version
 ```
-
-
 ```
 
